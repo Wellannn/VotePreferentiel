@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="VotePreferentiel/VotePreferentiel.csproj" />
+  <Project Path="VotePreferentiel.Worker/VotePreferentiel.Worker.csproj" />
+  <Project Path="VotePreferentiel.Tests/VotePreferentiel.Tests.csproj" />
+</Solution>
